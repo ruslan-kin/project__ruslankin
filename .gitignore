@@ -1,5 +1,9 @@
 /.idea/
 
+# Logs #
+######################
+/var/log/*
+
 # Compiled source #
 ###################
 *.com
