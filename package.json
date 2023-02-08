@@ -1,0 +1,24 @@
+{
+  "name": "mine_ruslankin",
+  "version": "1.0.0",
+  "description": "Сайт-визитка",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "serve": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruslan-kin/project__ruslankin.git"
+  },
+  "keywords": [],
+  "author": "Ruslan Kinzebaev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
