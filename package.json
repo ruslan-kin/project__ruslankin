@@ -20,5 +20,9 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
+  },
+  "nodemonConfig": {
+    "ext": "html,css,js",
+    "delay": "3"
   }
 }
